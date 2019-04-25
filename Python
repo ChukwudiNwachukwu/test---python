@@ -1,0 +1,13 @@
+print("Hello, My name is Datascience, what is your name?")
+Myname = input()
+print("Nice to meet you, " + Myname)
+print("How old are you?")
+myAge = input()
+print("you will be " + str(int(myAge) + 1) + " next year.")
+print("Where does your family live?")
+myCountry= input()
+if myCountry=USA: 
+  print(Where in the states?)
+  State = input()
+  if: State = Texas:
+    Print(Enjoy when you are there)
